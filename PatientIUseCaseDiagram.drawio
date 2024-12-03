@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Page-1" id="vneiexw0imvnhQHNi0vc">
+    <mxGraphModel dx="794" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oyb4ohcuv_fMFpXfolFk-1" target="Oyb4ohcuv_fMFpXfolFk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Oyb4ohcuv_fMFpXfolFk-1" target="Oyb4ohcuv_fMFpXfolFk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oyb4ohcuv_fMFpXfolFk-1" target="Oyb4ohcuv_fMFpXfolFk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oyb4ohcuv_fMFpXfolFk-1" target="Oyb4ohcuv_fMFpXfolFk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-1" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="210" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-4" value="View Profile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-5" value="Check Medical History" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-6" value="Send Message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-7" value="Recieve Message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Oyb4ohcuv_fMFpXfolFk-8" value="Clinic Management System" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="284" y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
